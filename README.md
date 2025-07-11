@@ -15,4 +15,4 @@ Network-Level Structure and Cohesion Measures: Modularity, Scale Freeness
 
 ## metrics_IB:
 - Node-Level Measures: Degree centrality, Betweenness Centrality, Closeness Centrality, Eigenvector Centrality
--Network-Level Structure and Cohesion Measures: Density and	Average Path Length
+- Network-Level Structure and Cohesion Measures: Density and	Average Path Length
