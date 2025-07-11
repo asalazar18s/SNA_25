@@ -2,7 +2,7 @@
 
 ## metrics_AS:
 - Multi Category Nominal Scale Analysis: Student Category Distribution, Scalar Network Analysis, Small World Network Analysis
-Network-Level Structure and Cohesion Measures: Modularity, Scale Freeness
+- Network-Level Structure and Cohesion Measures: Modularity, Scale Freeness
 
 ## metrics_DC:
 - Network Diameter Analysis
